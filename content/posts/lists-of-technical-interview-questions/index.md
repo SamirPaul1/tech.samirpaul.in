@@ -174,14 +174,14 @@ draft: false
 * [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 * [Top C Interview Questions and Answers](https://www.interviewbit.com/c-interview-questions/)
 
-### C#
+### c-sharp
 
-* [15 Essential C# Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
-* [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
-* [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
-* [50 C# Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
-* [20 C# OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
-* [30+ C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
+* [15 Essential c-sharp Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
+* [c-sharp interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
+* [Top 50 c-sharp Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
+* [50 c-sharp Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
+* [20 c-sharp OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
+* [30+ c-sharp Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ### .NET
 
