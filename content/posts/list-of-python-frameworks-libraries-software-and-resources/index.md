@@ -813,7 +813,7 @@ draft: false
 * [CPython](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 * [Cython](http://cython.org/) - Optimizing Static Compiler for Python.
 * [Grumpy](https://github.com/google/grumpy) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha).
-* [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
+* [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in c-sharp.
 * [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the JVM.
 * [MicroPython](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
 * [Numba](http://numba.pydata.org/) - Python JIT compiler to LLVM aimed at scientific Python.
