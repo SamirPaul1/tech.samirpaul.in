@@ -1,7 +1,7 @@
-## SamirPaul1/blog [![Deploy Hugo site to Pages](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml/badge.svg)](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml) 
+## SamirPaul1/blog [![Netlify Status](https://api.netlify.com/api/v1/badges/b56b7503-1490-4541-9575-39441bfea6c0/deploy-status)](https://app.netlify.com/sites/samir-paul/deploys)
 
 Live Demo: \
-👉 **https://samirpaul1.github.io/blog** 
+👉 **https://samir-paul.netlify.app** 
 
 
 Created using [Hugo](https://gohugo.io/getting-started/installing/) and [PaperMod](https://github.com/SamirPaulb/hugo-PaperMod).
