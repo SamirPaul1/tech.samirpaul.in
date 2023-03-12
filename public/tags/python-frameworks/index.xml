@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python-frameworks on Samir Paul</title>
+    <link>https://samir-paul.netlify.app/tags/python-frameworks/</link>
+    <description>Recent content in python-frameworks on Samir Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Oct 2022 15:58:26 +0800</lastBuildDate><atom:link href="https://samir-paul.netlify.app/tags/python-frameworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of Python Frameworks Libraries Software and Resources</title>
+      <link>https://samir-paul.netlify.app/posts/list-of-python-frameworks-libraries-software-and-resources/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samir-paul.netlify.app/posts/list-of-python-frameworks-libraries-software-and-resources/</guid>
+      <description>List of Python Frameworks Libraries Software and Resources</description>
+    </item>
+    
+  </channel>
+</rss>

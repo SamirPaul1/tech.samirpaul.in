@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ionic on Samir Paul</title>
+    <link>https://samir-paul.netlify.app/tags/ionic/</link>
+    <description>Recent content in ionic on Samir Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Oct 2022 15:58:26 +0800</lastBuildDate><atom:link href="https://samir-paul.netlify.app/tags/ionic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lists of Technical Interview Questions</title>
+      <link>https://samir-paul.netlify.app/posts/lists-of-technical-interview-questions/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samir-paul.netlify.app/posts/lists-of-technical-interview-questions/</guid>
+      <description>Lists of Technical Interview Questions</description>
+    </item>
+    
+  </channel>
+</rss>

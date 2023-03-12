@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotnet on Samir Paul</title>
+    <link>https://samir-paul.netlify.app/tags/dotnet/</link>
+    <description>Recent content in dotnet on Samir Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Dec 2022 14:24:31 +0530</lastBuildDate><atom:link href="https://samir-paul.netlify.app/tags/dotnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some of My Online Courses Certificates</title>
+      <link>https://samir-paul.netlify.app/posts/some-of-my-online-courses-certificates/</link>
+      <pubDate>Mon, 12 Dec 2022 14:24:31 +0530</pubDate>
+      
+      <guid>https://samir-paul.netlify.app/posts/some-of-my-online-courses-certificates/</guid>
+      <description>Some of My Online Courses Certificates</description>
+    </item>
+    
+    <item>
+      <title>Lists of Technical Interview Questions</title>
+      <link>https://samir-paul.netlify.app/posts/lists-of-technical-interview-questions/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samir-paul.netlify.app/posts/lists-of-technical-interview-questions/</guid>
+      <description>Lists of Technical Interview Questions</description>
+    </item>
+    
+  </channel>
+</rss>

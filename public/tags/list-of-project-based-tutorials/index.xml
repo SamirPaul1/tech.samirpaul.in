@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>list-of-project-based-tutorials on Samir Paul</title>
+    <link>https://samir-paul.netlify.app/tags/list-of-project-based-tutorials/</link>
+    <description>Recent content in list-of-project-based-tutorials on Samir Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Oct 2022 15:58:26 +0800</lastBuildDate><atom:link href="https://samir-paul.netlify.app/tags/list-of-project-based-tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curated List of Project Based Tutorials</title>
+      <link>https://samir-paul.netlify.app/posts/curated-list-of-project-based-tutorials/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samir-paul.netlify.app/posts/curated-list-of-project-based-tutorials/</guid>
+      <description>Curated List of Project Based Tutorials</description>
+    </item>
+    
+  </channel>
+</rss>
