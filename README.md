@@ -12,7 +12,7 @@ Steps:
 3. Run ```hugo``` to build static codes inside public directory for deploying on Netlify/Vercel.
 4. Run ```hugo server``` to preview the site. 
 5. Use GitHub Actions to deploy on GitHub Pages.
-6. Update theme: Change [SamirPaulb/hugo-PaperMod](https://github.com/SamirPaul1/hugo-PaperMod) -> delete ```themes/PaperMod``` directory -> run ```git clone https://github.com/SamirPaulb/hugo-PaperMod themes/PaperMod --depth=1```
+6. Update theme: Change [SamirPaulb/hugo-PaperMod](https://github.com/SamirPaulb/hugo-PaperMod) -> delete ```themes/PaperMod``` directory -> run ```git clone https://github.com/SamirPaulb/hugo-PaperMod themes/PaperMod --depth=1```
 
 ---
 ### TODO:
