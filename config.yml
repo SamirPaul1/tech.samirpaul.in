@@ -59,7 +59,7 @@ params:
     ShowCodeCopyButtons: true
     ShowFullTextinRSS: true
     ShowRssButtonInSectionTermList: true
-    hideFooter: false
+    hideFooter: true
     ShowToc: true
     TocOpen: false
     hidemeta: false
