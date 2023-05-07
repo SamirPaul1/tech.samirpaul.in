@@ -11,6 +11,20 @@ license: "CC BY 4.0"
 draft: false
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 
 There are many libraries available in Python for visualizing data, including:
 
@@ -27,4 +41,18 @@ ggplot: ggplot is a plotting library for Python that is inspired by the popular 
 These are just a few examples of the many data visualization libraries available for Python. The best library for your needs will depend on the specific requirements of your project, as well as your personal preferences and experience.
 
 
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

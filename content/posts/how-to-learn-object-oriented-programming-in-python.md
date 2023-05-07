@@ -11,6 +11,20 @@ license: "CC BY 4.0"
 draft: false
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 
 Learning object-oriented programming (OOP) in Python can be done by following these steps:
 
@@ -31,4 +45,18 @@ Build projects: Apply your OOP knowledge by building real-world projects. This c
 Remember, the key to learning OOP is practice and repetition. Keep trying out new concepts and examples until you feel comfortable with the basics of OOP in Python.
 
 
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

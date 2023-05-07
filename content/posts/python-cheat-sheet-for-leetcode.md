@@ -12,6 +12,20 @@ draft: false
 ---
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 # Basics
 
 - Data Types
@@ -52,6 +66,20 @@ nums.sort() # sorts list [does NOT return sorted list]
 #Python's default sort uses Tim Sort, which is a combination of both merge sort and insertion sort.
 ```
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ```
 It's pretty simple really:
 
@@ -88,6 +116,20 @@ Slice objects also behave slightly differently depending on the number of argume
 
 While the :-based notation is very helpful for simple slicing, the explicit use of slice() objects simplifies the programmatic generation of slicing.
 ```
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Dictionary
 
@@ -206,6 +248,20 @@ heapq.heappop(nums) # Pop an element from the heap
 heapq.nlargest(k, iterable, key = fun)
 heapq.nsmallest(k, iterable, key = fun)
 ```
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Sets
 
@@ -373,6 +429,20 @@ string.isupper()
     #return character of given ascii value , Example chr(97) = "a"
     ```
     
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 # Clean Code Tips
 
@@ -615,5 +685,19 @@ string.isupper()
 [The Modulo Operation (%) With Negative Numbers in Python](https://betterprogramming.pub/modulo-operation-with-negative-numbers-in-python-38cb7256bb32)
 
 ### Cheat Sheet PDF
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 [**Click Here**](https://drive.google.com/file/d/1EojiCPYkyLi0f5DYW4UF3Lwp-Pwihr7q/view?usp=sharing)

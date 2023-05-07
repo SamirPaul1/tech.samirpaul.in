@@ -14,6 +14,9 @@ draft: false
 
 Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). **But when it comes to implementation, it's rather difficult to write a bug-free code in just a few minutes**. Some of the most common problems include:
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
 <!-- Display ads -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -25,6 +28,8 @@ Binary Search is quite easy to understand conceptually. Basically, it splits the
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+
 - When to exit the loop? Should we use `left < right` or `left <= right` as the while loop condition?
 - How to initialize the boundary variable `left` and `right`?
 - How to update the boundary? How to choose the appropriate combination from `left = mid`, `left = mid + 1` and `right = mid`, `right = mid - 1`?
@@ -34,6 +39,20 @@ A rather common misunderstanding of binary search is that people often think thi
 After a lot of practice in LeetCode, I've made a powerful binary search template and solved many Hard problems by just slightly twisting this template. I'll share the template with you guys in this post. **I don't want to just show off the code and leave. Most importantly, I want to share the logical thinking: how to apply this general template to all sorts of problems**. Hopefully, after reading this post, people wouldn't be pissed off any more when LeetCoding, "This problem could be solved with binary search! Why didn't I think of that before!"
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 # \>> Most Generalized Binary Search
 

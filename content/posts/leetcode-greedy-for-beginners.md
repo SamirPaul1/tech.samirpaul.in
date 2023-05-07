@@ -14,6 +14,20 @@ draft: false
 
 Greedy for practice:
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 Sharing good Greedy problems for practice:  
 List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
 
@@ -33,6 +47,20 @@ List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
 [https://leetcode.com/problems/previous-permutation-with-one-swap/](https://leetcode.com/problems/previous-permutation-with-one-swap/)  
 [https://leetcode.com/problems/lemonade-change/](https://leetcode.com/problems/lemonade-change/)  
 [https://leetcode.com/problems/bag-of-tokens/](https://leetcode.com/problems/bag-of-tokens/)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 **Hash/Multi-set:**  
 [https://leetcode.com/problems/task-scheduler/](https://leetcode.com/problems/task-scheduler/)  
@@ -88,6 +116,20 @@ public:
 	}
 };
 ```
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 [https://leetcode.com/problems/car-pooling/](https://leetcode.com/problems/car-pooling/)
 
@@ -188,3 +230,17 @@ public:
 	}
 };
 ```
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+

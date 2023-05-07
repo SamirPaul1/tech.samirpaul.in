@@ -70,6 +70,9 @@ Caching
   - Serving static media off a separate subdomain using lightweight HTTP server (e.g. Nginx).
   - Cutover the DNS from this subdomain to a CDN later.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
 <!-- Display ads -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,6 +83,7 @@ Caching
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 
 ## Cache invalidation
 - Keep cache coherent with the source of truth. Invalidate cache when source of truth has changed.

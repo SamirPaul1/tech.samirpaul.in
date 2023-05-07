@@ -56,3 +56,19 @@ draft: false
 ![Python Assessment for skill HackerRank Certificate](https://user-images.githubusercontent.com/77569653/207000865-807a964f-77d7-46e1-b05b-fc5ed76b39df.png)
 ![Deep Learning Fundamentals TV ML0115EN Certificate Cognitive Class](https://user-images.githubusercontent.com/77569653/207000868-12b8d203-0fb8-4b55-b09e-1ccb847a2e7b.png)
 ![Problem Solving (Basic) HackerRank Certificate](https://user-images.githubusercontent.com/77569653/207000869-a38af34d-a5f5-4eea-afe9-9b4fba238402.png)
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+

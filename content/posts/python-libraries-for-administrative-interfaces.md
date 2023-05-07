@@ -12,6 +12,20 @@ draft: false
 ---
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 There are several Python libraries that can be used to create administrative interfaces for web applications. Some popular ones include:
 
 1. **Django Admin:** Django is a high-level Python web framework that includes a built-in administrative interface. The Django Admin interface is a powerful tool for managing the data and settings of a Django-powered website. It is designed to be easy to use and provides a range of functionality, including the ability to add, edit, and delete records, manage user accounts, and run custom actions on selected records.

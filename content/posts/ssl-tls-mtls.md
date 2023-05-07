@@ -12,6 +12,20 @@ draft: false
 ---
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 SSL (Secure Sockets Layer), TLS (Transport Layer Security), and mTLS (Mutual TLS) are all security protocols used to secure communications over the internet.
 
 SSL was the original protocol used to secure internet communications, but it has been largely replaced by TLS, which is considered to be more secure. TLS is a cryptographic protocol that provides secure communication between two endpoints, such as a web server and a client browser. It ensures that the data transmitted between the endpoints is confidential and integrity protected.

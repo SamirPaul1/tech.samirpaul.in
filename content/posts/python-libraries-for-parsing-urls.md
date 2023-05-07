@@ -12,6 +12,20 @@ draft: false
 ---
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 There are several libraries in Python for parsing URLs:
 
 urllib: This is a standard library in Python, and it includes several modules for working with URLs and HTTP requests, including urllib.parse which provides functions for parsing URLs.
