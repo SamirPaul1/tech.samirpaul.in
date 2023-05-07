@@ -68,6 +68,19 @@ The higher the cost of a click, the more valuable it is.
 
 Note: In 2016, Google switched from showing accurate search volume metrics to estimated data ranges for users who had a Google account but were not running an ad campaign. You can see the exact search volume only if you are running an ad campaign.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Below are the most expensive keywords as of January 2021.
 
 - offshore accident lawyer $815.00
@@ -100,6 +113,20 @@ Below are the most expensive keywords as of January 2021.
 - truck accident lawyer dallas $425.00
 - auto injury accident lawyer $415.00
 - dallas truck accident lawyer $395.00
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - personal injury attorneys lafayette la $385.00
 - los angeles truck accident lawyer $380.00
 - boating accident attorney $375.00
@@ -110,6 +137,20 @@ Below are the most expensive keywords as of January 2021.
 - car accident attorney denver $345.00
 - brooklyn construction accident lawyer $345.00
 - 18 wheeler accident lawyer houston $345.00
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - best mesothelioma lawyer $340.00
 - chicago birth injury lawyer $335.00
 - houston wrongful death attorney $335.00
@@ -118,6 +159,20 @@ Below are the most expensive keywords as of January 2021.
 - accident lawyer phoenix $320.00
 - pensacola auto accident lawyer $320.00
 - trucking accident lawyers $320.00
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - top auto accident attorney $320.00
 - medical malpractice attorney baltimore $315.00
 - truck accident attorney houston $315.00
@@ -201,6 +256,20 @@ Below are the most expensive keywords as of January 2021.
 - size 12 boots sketchers
 - reebok women's boots
 - reebok wool shoes
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - white slippers nike
 - fabric stilletos
 - kids boots sketchers
@@ -588,6 +657,19 @@ Before you start just follow these rules:
 PPC Search Ad Stats (ROI)
 
 These statistics indicate that PPC has the ability to provide a high ROI under the right circumstances.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 - For every $1 spent on Google Adwords, businesses earn average revenue of $2 (Google).
 - Ad spending is increasing. According to SocialMediaToday, 72 percent of marketers are spending more on social ads in 2018 and 60 percent of marketers are spending more on text ads and mobile ads in 2018.

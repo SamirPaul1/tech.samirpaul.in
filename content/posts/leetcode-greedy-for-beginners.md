@@ -38,6 +38,18 @@ List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
 [https://leetcode.com/problems/candy/](https://leetcode.com/problems/candy/)  
 [https://leetcode.com/problems/remove-k-digits/](https://leetcode.com/problems/remove-k-digits/)  
 [https://leetcode.com/problems/wiggle-subsequence/](https://leetcode.com/problems/wiggle-subsequence/)  
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="2447305919"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [https://leetcode.com/problems/assign-cookies/](https://leetcode.com/problems/assign-cookies/)  
 [https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)  
 [https://leetcode.com/problems/bag-of-tokens/](https://leetcode.com/problems/bag-of-tokens/)  
@@ -67,6 +79,18 @@ List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
 [https://leetcode.com/problems/partition-labels/](https://leetcode.com/problems/partition-labels/)  
 [https://leetcode.com/problems/car-pooling/](https://leetcode.com/problems/car-pooling/)  
 [https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)  
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="2447305919"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)  
 [https://leetcode.com/problems/cinema-seat-allocation/](https://leetcode.com/problems/cinema-seat-allocation/)  
 [https://leetcode.com/problems/construct-k-palindrome-strings/](https://leetcode.com/problems/construct-k-palindrome-strings/)  
@@ -75,6 +99,18 @@ List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
 **Strings:**  
 [https://leetcode.com/problems/reorganize-string/](https://leetcode.com/problems/reorganize-string/)  
 [https://leetcode.com/problems/string-without-aaa-or-bbb/](https://leetcode.com/problems/string-without-aaa-or-bbb/)  
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="2447305919"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [https://leetcode.com/problems/check-if-a-string-can-break-another-string/](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)  
 [https://leetcode.com/problems/remove-duplicate-letters/](https://leetcode.com/problems/remove-duplicate-letters/)
 
@@ -130,7 +166,16 @@ public:
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="2447305919"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 [https://leetcode.com/problems/car-pooling/](https://leetcode.com/problems/car-pooling/)
 
 ```
