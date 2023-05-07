@@ -50,6 +50,22 @@ draft: false
 ![Introduction to SQL Data Camp certificate-1](https://user-images.githubusercontent.com/77569653/207000839-3f4158ba-3993-43f0-befa-65fd769060fb.jpg)
 ![IoT Foundations Operating Systems Fundamentals-1](https://user-images.githubusercontent.com/77569653/207000841-68c9007b-4e86-4892-9eb3-a38022703889.jpg)
 ![Linux Shells and Processes - LinkedIn learning-1](https://user-images.githubusercontent.com/77569653/207000846-d0da3ea5-9d18-40b6-a4ac-7eecf8c0d95f.jpg)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ![Machine Learning Coursera VJHQ4C2F8LDA-1](https://user-images.githubusercontent.com/77569653/207000849-c222d1f0-3856-4fad-8f59-380a503665b5.jpg)
 ![Microsoft SQL Server 2019_ For Beginners Udemy UC-93630ce4-c301-401f-a935-a38155ba79aa-1](https://user-images.githubusercontent.com/77569653/207000857-a0b600ce-8063-47bf-84ea-204c1fdbbfa2.jpg)
 ![Networking Foundations Network Media LANs-1](https://user-images.githubusercontent.com/77569653/207000863-558e99d7-c318-4e2a-b4be-b7ff04828f07.jpg)

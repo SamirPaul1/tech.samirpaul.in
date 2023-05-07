@@ -28,6 +28,22 @@ draft: false
 | --- |
 
 The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.  
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ![image](https://user-images.githubusercontent.com/77569653/226705317-e62636ef-7fac-4897-a7d0-4625cd71826f.png)
 
 - 2 Sum problem  
@@ -94,7 +110,38 @@ The first type of problems are, having two pointers at left and right end of arr
 | --- |
 
 Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.  
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ![image](https://user-images.githubusercontent.com/77569653/226705223-95601d5c-7c9c-416a-a561-3bc6213afd75.png)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 - Linked List Operations  
     (\*) [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)  
@@ -148,6 +195,21 @@ Next type is using two pointers with different speed of movement. Typically they
 In this category, you will be given 2 arrays or lists, then have to process them with individual pointers.  
 ![image](https://user-images.githubusercontent.com/77569653/226705109-0e41c781-9c08-4796-90fd-8b2169cef242.png)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 - Sorted arrays  
     (\*) [https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)  
     [https://leetcode.com/problems/heaters/](https://leetcode.com/problems/heaters/)  
@@ -191,6 +253,21 @@ In this category, you will be given 2 arrays or lists, then have to process them
 
 The last one is similiar to previous category but there is one thing is added. First, you need to split the given list into 2 separate lists and then do two pointers approach to merge or unify them. There aren't many tasks here.  
 ![image](https://user-images.githubusercontent.com/77569653/226704881-583b72b9-d759-46f6-ab8f-a81310800c30.png)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 - Partition  
     (\*) [https://leetcode.com/problems/partition-list/](https://leetcode.com/problems/partition-list/)
