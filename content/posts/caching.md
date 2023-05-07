@@ -16,6 +16,19 @@ Caching
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - Take advantage of the locality of reference principle: recently requested data is likely to be requested again.
 - Exist at all levels in architecture, but often found at the level nearest to the front end.
 
@@ -56,6 +69,17 @@ Caching
 - If the system is not large enough for CDN, it can be built like this:
   - Serving static media off a separate subdomain using lightweight HTTP server (e.g. Nginx).
   - Cutover the DNS from this subdomain to a CDN later.
+
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Cache invalidation
 - Keep cache coherent with the source of truth. Invalidate cache when source of truth has changed.

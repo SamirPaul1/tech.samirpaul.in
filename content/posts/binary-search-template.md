@@ -14,6 +14,17 @@ draft: false
 
 Binary Search is quite easy to understand conceptually. Basically, it splits the search space into two halves and only keep the half that probably has the search target and throw away the other half that would not possibly have the answer. In this manner, we reduce the search space to half the size at every step, until we find the target. Binary Search helps us reduce the search time from linear O(n) to logarithmic O(log n). **But when it comes to implementation, it's rather difficult to write a bug-free code in just a few minutes**. Some of the most common problems include:
 
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - When to exit the loop? Should we use `left < right` or `left <= right` as the while loop condition?
 - How to initialize the boundary variable `left` and `right`?
 - How to update the boundary? How to choose the appropriate combination from `left = mid`, `left = mid + 1` and `right = mid`, `right = mid - 1`?
@@ -76,6 +87,19 @@ Then 4 is the first bad version.
 ```
 
 First, we initialize `left = 1` and `right = n` to include all possible values. Then we notice that we don't even need to design the `condition` function. It's already given by the `isBadVersion` API. Finding the first bad version is equivalent to finding the minimal k satisfying `isBadVersion(k) is True`. Our template can fit in very nicely:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
+     crossorigin="anonymous"></script>
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ```
 class Solution:
@@ -309,6 +333,16 @@ def minEatingSpeed(piles: List[int], H: int) -> int:
 ```
 
 ---
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## [1482\. Minimum Number of Days to Make m Bouquets \[Medium\]](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 
@@ -333,6 +367,16 @@ Explanation: We need 3 bouquets each has 2 flowers, that means we need 6 flowers
 ```
 
 Now that we've solved three advanced problems above, this one should be pretty easy to do. The monotonicity of this problem is very clear: if we can make `m` bouquets after waiting for `d` days, then we can definitely finish that as well if we wait for more than `d` days.
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ```
 def minDays(bloomDay: List[int], m: int, k: int) -> int:
@@ -539,6 +583,16 @@ def smallestDivisor(nums: List[int], threshold: int) -> int:
 Wow, thank you so much for making it to the end! Really appreciate that. As you can see from the python codes above, they all look very similar to each other. That's because I copy-pasted my own template all the time. No exception. This is the strong proof of my template's powerfulness and adaptability. I believe everyone can acquire this binary search template to solve many problems. All we need is just more practice to build up our ability to discover the monotonicity of the problem and to design a beautiful `condition` function.
 
 Hope this helps.
+<!-- Display ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8274401353019049"
+     data-ad-slot="5522300086"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Reference**
 
