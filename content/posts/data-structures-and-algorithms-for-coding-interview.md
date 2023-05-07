@@ -1091,13 +1091,6 @@ Day30:
 
 2. https://github.com/SamirPaul1/system-design
 
-3. https://www.freecodecamp.org/news/systems-design-for-interviews
-
-4. https://www.geeksforgeeks.org/system-design-tutorial
-
-5. https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
@@ -1108,3 +1101,10 @@ Day30:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+3. https://www.freecodecamp.org/news/systems-design-for-interviews
+
+4. https://www.geeksforgeeks.org/system-design-tutorial
+
+5. https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
