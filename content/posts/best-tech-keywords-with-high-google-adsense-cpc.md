@@ -20,6 +20,7 @@ date: 2021-8-04T15:58:26+08:00
 lastmod: 2021-03-04T15:58:26+08:00
 draft: false
 author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 license: "CC BY 4.0"
 draft: false
 
@@ -55,24 +56,6 @@ draft: false
 | google lay offs                                   | LOW             | 0                     | 90500             |                      |                       |
 | technician                                        | LOW             | 5                     | 74000             | 0.91                 | 5.89                  |
 | tech news                                         | LOW             | 13                    | 74000             | 0.91                 | 2.69                  |
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
 | pharmacy technician                               | MEDIUM          | 35                    | 74000             | 1.72                 | 10.70                 |
 | ars tech                                          | LOW             | 0                     | 74000             | 5.00                 | 11.94                 |
 | v tech                                            | HIGH            | 100                   | 60500             | 0.21                 | 0.62                  |
@@ -83,21 +66,6 @@ draft: false
 | surgical tech                                     | LOW             | 25                    | 33100             | 1.69                 | 13.28                 |
 | surgical technologist                             | LOW             | 22                    | 33100             | 1.61                 | 12.38                 |
 | radiology tech                                    | LOW             | 18                    | 33100             | 1.34                 | 9.71                  |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | high tech                                         | LOW             | 1                     | 27100             | 0.54                 | 1.59                  |
 | technical writing                                 | LOW             | 12                    | 27100             | 0.73                 | 6.62                  |
 | new technology                                    | LOW             | 33                    | 27100             | 1.22                 | 6.40                  |
@@ -136,21 +104,6 @@ draft: false
 | educational technology                            | LOW             | 14                    | 8100              | 1.97                 | 13.14                 |
 | women in tech                                     | LOW             | 19                    | 8100              | 1.49                 | 5.80                  |
 | ai technology                                     | LOW             | 28                    | 8100              | 1.23                 | 3.39                  |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | new technology 2022                               | MEDIUM          | 34                    | 8100              | 1.32                 | 7.04                  |
 | computer technician                               | LOW             | 22                    | 8100              | 2.43                 | 13.54                 |
 | technical college                                 | LOW             | 28                    | 8100              | 4.27                 | 17.68                 |
@@ -201,21 +154,6 @@ draft: false
 | surgical technologist program                     | MEDIUM          | 46                    | 4400              | 2.51                 | 12.50                 |
 | tech insider                                      | LOW             | 0                     | 4400              |                      |                       |
 | canvas lincoln tech                               | LOW             | 0                     | 4400              | 4.56                 | 10.52                 |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | technology reddit                                 | LOW             | 0                     | 4400              |                      |                       |
 | geekzilla tech                                    | LOW             | 0                     | 3600              |                      |                       |
 | modern technology                                 | LOW             | 9                     | 3600              | 1.04                 | 4.31                  |
@@ -259,21 +197,6 @@ draft: false
 | new tech gadgets                                  | HIGH            | 100                   | 2900              | 0.18                 | 0.99                  |
 | hokie bird                                        | LOW             | 6                     | 2900              |                      |                       |
 | digital twin technology                           | MEDIUM          | 35                    | 2400              | 1.73                 | 5.22                  |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | global tech                                       | LOW             | 1                     | 2400              | 1.97                 | 10.57                 |
 | dtech                                             | LOW             | 4                     | 2400              | 0.08                 | 1.80                  |
 | tech news today                                   | LOW             | 27                    | 2400              | 0.75                 | 2.24                  |
@@ -309,21 +232,6 @@ draft: false
 | promotion technology                              | LOW             | 0                     | 1900              | 1.45                 | 9.58                  |
 | google lay off                                    | LOW             | 0                     | 1900              |                      |                       |
 | old technology                                    | LOW             | 1                     | 1900              |                      |                       |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | techexpress                                       | LOW             | 0                     | 1900              |                      |                       |
 | tech gadgets 2022                                 | HIGH            | 99                    | 1900              | 0.20                 | 0.82                  |
 | career and technical education                    | LOW             | 11                    | 1900              | 1.67                 | 8.24                  |
@@ -370,21 +278,6 @@ draft: false
 | robotics technology                               | LOW             | 30                    | 1300              | 1.08                 | 3.30                  |
 | network technology                                | LOW             | 4                     | 1300              | 1.70                 | 7.43                  |
 | technical institute                               | LOW             | 24                    | 1300              | 4.79                 | 20.86                 |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | electrical engineering technology                 | LOW             | 21                    | 1300              | 3.56                 | 16.45                 |
 | cardiac technician                                | LOW             | 7                     | 1300              | 0.72                 | 5.57                  |
 | technology services                               | LOW             | 14                    | 1300              | 5.62                 | 25.92                 |
@@ -437,21 +330,6 @@ draft: false
 | best technology                                   | LOW             | 19                    | 720               | 0.13                 | 1.60                  |
 | king tech                                         | LOW             | 1                     | 720               |                      |                       |
 | electrical engineering technician                 | LOW             | 22                    | 720               | 3.72                 | 19.21                 |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | techaba com                                       | LOW             | 0                     | 590               |                      |                       |
 | gte technology                                    | LOW             | 2                     | 590               | 0.20                 | 8.00                  |
 | in tech                                           | LOW             | 0                     | 590               | 1.12                 | 3.09                  |
@@ -501,21 +379,6 @@ draft: false
 | nothing phone 1 company                           | MEDIUM          | 53                    | 140               |                      |                       |
 | department of science and technology              | LOW             | 0                     | 140               |                      |                       |
 | tech in                                           | LOW             | 1                     | 140               |                      |                       |
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
-     crossorigin="anonymous"></script>
-<!-- Display ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8274401353019049"
-     data-ad-slot="5522300086"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 | international institute of information technology | LOW             | 0                     | 140               |                      |                       |
 | new technology 2022 in computer science           | MEDIUM          | 41                    | 140               | 1.82                 | 8.76                  |
 | techteam                                          | LOW             | 1                     | 140               |                      |                       |
@@ -527,6 +390,8 @@ draft: false
 | software technology park                          | LOW             | 0                     | 10                |                      |                       |
 | the tech tricks                                   | LOW             | 0                     | 10                |                      |                       |
 | the tech best                                     | LOW             | 24                    | 10                |                      |                       |
+
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8274401353019049"
      crossorigin="anonymous"></script>
