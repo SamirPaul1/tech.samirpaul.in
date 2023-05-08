@@ -16,7 +16,7 @@ images:
 #   - filename01.mov
 #   - filename02.avi
 
-date: 2021-9-04T15:58:26+08:00
+date: 2021-09-04T15:58:26+08:00
 lastmod: 2021-03-04T15:58:26+08:00
 draft: false
 author: "Samir Paul"
