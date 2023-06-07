@@ -1,7 +1,7 @@
-## blog.samirpaul.in [![Netlify Status](https://api.netlify.com/api/v1/badges/b56b7503-1490-4541-9575-39441bfea6c0/deploy-status)](https://app.netlify.com/sites/samir-paul/deploys)
+## tech.samirpaul.in [![Netlify Status](https://api.netlify.com/api/v1/badges/b56b7503-1490-4541-9575-39441bfea6c0/deploy-status)](https://app.netlify.com/sites/samir-paul/deploys)
 
 Live Demo: \
-👉 **https://blog.samirpaul.in** 
+👉 **https://tech.samirpaul.in** 
 
 
 Created using [Hugo](https://gohugo.io/getting-started/installing/) and [PaperMod](https://github.com/SamirPaulb/hugo-PaperMod).

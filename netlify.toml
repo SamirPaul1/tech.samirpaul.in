@@ -37,6 +37,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://samir-paul.netlify.app/*"
-  to = "https://blog.samirpaul.in/:splat"
+  to = "https://tech.samirpaul.in/:splat"
   status = 301
   force = true
