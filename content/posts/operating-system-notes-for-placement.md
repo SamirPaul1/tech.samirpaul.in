@@ -2,8 +2,8 @@
 title: "Operating System Notes For Placement"
 description: "Operating System Notes For Tech Placements"
 tags: [blog, coding, computer-science, Operating System, Placements, OS]
-date: 2023-10-04T15:58:26+08:00
-lastmod: 2023-03-04T15:58:26+08:00
+date: 2023-06-10T19:58:26+08:00
+lastmod: 2023-06-10T19:58:26+08:00
 cover:
   image: "https://github.com/github/docs/assets/132539454/729957d1-0c1a-41b1-bd01-6a8f373e5081"
   alt: "Open External Links in a New Window Using Javascript"
